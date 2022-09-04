@@ -1,6 +1,6 @@
 class Contriller{
     function index(){
-        $ciudades=["cali","pasto","tumaco","ipiales","madellin"]
+        $ciudades=["Cali","Pasto","Tumaco","Ipiales","Madellin","Bogota"]
         return view("index.php");
     }
 }
